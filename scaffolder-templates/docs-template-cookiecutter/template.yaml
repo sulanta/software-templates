@@ -1,13 +1,12 @@
 apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
-  name: docs-template-cookiecutter
-  title: Documentation Template (Cookiecutter)
-  description: Create a new standalone documentation project using Cookiecutter
+  name: paloma-docs-template
+  title: Paloma Documentation Template
+  description: Create a new standalone documentation project
   tags:
     - techdocs
     - mkdocs
-    - cookiecutter
 spec:
   owner: backstage/techdocs-core
   type: documentation
