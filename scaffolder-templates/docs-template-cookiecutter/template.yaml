@@ -8,7 +8,7 @@ metadata:
     - techdocs
     - mkdocs
 spec:
-  owner: backstage/techdocs-core
+  owner: sulanta.leisangthem@sophos.com
   type: documentation
 
   parameters:
